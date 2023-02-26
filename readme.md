@@ -10,23 +10,24 @@
 
 #### 正常模式
 
-![image-20230129205751831](./readme.assets/image-20230129205751831.png)
+![image-20230226214936380](./readme.assets/image-20230226214936380.png)
 
 #### 夜间模式
 
-![image-20230129205814105](./readme.assets/image-20230129205814105.png)
+![image-20230226215015075](./readme.assets/image-20230226215015075.png)
 
 #### 炫酷模式
 
-![image-666](./readme.assets/image-666.png)
+![image-20230226215053158](./readme.assets/image-20230226215053158.png)
+
+#### 黑板模式
+
+![image-20230226215129409](./readme.assets/image-20230226215129409.png)
 
 ## 使用方法
 
 1. 下载源码，地址：[liano3/Atheme:(github.com)](https://github.com/liano3/typora/archive/refs/heads/main.zip)
-2. 解压压缩包，得到文件夹 atheme，文件 atheme.css、atheme-dark.css
-3. 把上面的文件夹 `atheme`，文件 `atheme.css`, `atheme-dark.css`, `handwrite.css` 全部放入 typora 主题文件夹(文件->偏好设置->外观->打开主题文件夹)
-![image-20230129205928475](./readme.assets/image-20230129205928475.png)
-
-4. 安装 `atheme/fonts` 文件夹下的所有字体(全选，右键安装)
-
-5. 重启typora，更换主题(Atheme或Atheme-dark或Handwrite)
+2. 解压压缩包，得到文件夹 atheme，文件 atheme.css、atheme-dark.css、cool.css、board.css
+3. 全部放入 typora 主题文件夹(文件->偏好设置->外观->打开主题文件夹)<img src="./readme.assets/image-20230226215421112.png" alt="image-20230226215421112" style="zoom:67%;" />
+4. 安装 `atheme/fonts` 文件夹下的字体(全选，右键安装)
+5. 重启typora，更换主题(Atheme或Atheme-dark或Cool或Board)

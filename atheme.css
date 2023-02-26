@@ -1,7 +1,7 @@
 @import url(./atheme/liano.css);
 :root {
     --select-text-bg-color: #ffafa3;/* 文本选中背景色（粉红）*/
-    --bg-color: rgb(240, 248, 255);/* 整体背景色 */
+    --bg-color: rgb(240, 248, 255);
     --write-color: #fff;    /* 书写区背景色 */
     --sidebarbg-color: #eee;/* 侧边栏背景色 */
     --focus-color: #ff5d52;/* 点击某些元素（如标题）显示的颜色（偏红） */
@@ -10,7 +10,7 @@
     --codeblockline-color: #e0f8f8;/* 代码块选中行颜色（青色） */
     --h2-color: #FFAE42;
     --h3-color: #6699CC;
-    --h4-color: #00c4b6;
+    --h4-color: #45B08C;
     --h5-color: #964B00;/* 各级标题点缀颜色（绿色） */
     --codeblocknum-color: rgba(128, 128, 255, 0.8);/* 代码块行编号颜色（蓝色） */
     --blockquoteicon-color: rgba(0, 196, 182, 0.8); /* blockquote提示图标色（绿色） */
@@ -35,7 +35,7 @@
     --sidelist-selected-color: #eeeeee;/* 侧边栏条目选中背景色（灰色） */
     --yamlbg-color: #f7f7f7;/* 头部YAML背景色（白色） */
     --yaml-color: #585858;/* 头部YAML字体颜色（黑色） */
-    --body-font: '思源黑体 CN', sans-serif;/* 字体 */
+    --body-font: '思源宋体';/* 字体 */
     --code-font: 'Consolas', '思源宋体', monospace;/* 代码块以及行内代码字体 */
     --print-font: 'Times', '思源宋体', serif;/* 打印字体 */
 }

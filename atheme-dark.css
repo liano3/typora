@@ -36,9 +36,10 @@
     --sidelist-selected-color: #263238;/* 侧边栏条目选中背景色 */
     --yamlbg-color: #1a1a1a;/* 头部YAML背景色 */
     --yaml-color: #7f9bb7;/* 头部YAML字体颜色 */
-    --body-font: '汉仪参考消息先驱体', sans-serif;/* 字体 */
+    --body-font: '思源宋体';/* 字体 */
     --code-font: 'Consolas', '思源宋体', monospace;/* 代码块以及行内代码字体 */
     --print-font: 'Times', '思源宋体', serif;/* 打印字体 */
+    --text-color: #aaa;
 }
 img {
     filter: brightness(80%);
